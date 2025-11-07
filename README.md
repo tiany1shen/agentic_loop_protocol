@@ -24,10 +24,12 @@ graph LR
 
 ### 2. 开发计划
 Development Roadmap
-- [ ] MVP - 复现 Mobile-Agent-v3
+
 - [ ] 定义基类和接口
     - [ ] 数据类和持久化接口
     - [ ] 日志类
     - [ ] Environment 基类接口
     - [ ] Agent 基类接口
     - [ ] Context 基类接口
+
+- [ ] MVP - 复现 Mobile-Agent-v3
