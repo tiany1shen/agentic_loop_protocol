@@ -1,1 +1,0 @@
-from alp.utils.data import Message, MultiModalMessage

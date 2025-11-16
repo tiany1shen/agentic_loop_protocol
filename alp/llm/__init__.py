@@ -1,7 +1,7 @@
 from pydantic import BaseModel, Field
 from langchain_openai import ChatOpenAI
 
-from alp.utils import MultiModalMessage
+from alp.utils.data import MultiModalMessage
 
 
 # OpenAI LLM 接口规范 
